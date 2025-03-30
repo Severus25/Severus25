@@ -20,7 +20,7 @@ Hello! I'm Abhijai Rajawat, a passionate and ambitious developer with a knack fo
 
 ## 🌌 My Universe of Skills  
 💻 **Languages**:  
-- **Python**, **Golang**, **SQL**, **JavaScript**, **R**, **C++**, **JavaScript**, **TypeScript**
+- **Python**, **Golang**, **SQL**, **R**, **C++**, **JavaScript**, **TypeScript**
 
 🌐 **Web Development**:  
 - **React.js**, **Node.js**, **Next.js**, **Tailwind CSS**, **Express.js**, **MongoDB**
