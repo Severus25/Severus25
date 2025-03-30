@@ -72,7 +72,7 @@ Hello! I'm Abhijai Rajawat, a passionate and ambitious developer with a knack fo
 
 ## 🌈 Let's Connect  
 <p align="center">
-  <a href="https://www.linkedin.com/in/severus-profile"><img src="https://img.shields.io/badge/LinkedIn-Abhijai%20Rajawat-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/abhijai-rajawat"><img src="https://img.shields.io/badge/LinkedIn-Abhijai%20Rajawat-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:abhijairajawat@gmail.com"><img src="https://img.shields.io/badge/Gmail-Abhijai%20Rajawat-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
